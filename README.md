@@ -12,6 +12,8 @@
     <img src="https://badges.pufler.dev/created/amirovm/itsamirov1">
 </p>
 
-<p align="center" My interests:</p>
+<p align="center"> 
+<p My interests: </p> 
+</p>
   
 
