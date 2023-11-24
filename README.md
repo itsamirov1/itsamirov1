@@ -1,3 +1,10 @@
 <img src="header.png">
-[![Repos Badge](https://badges.pufler.dev/repos/amirovm)](https://badges.pufler.dev)
+<p align="center">
+    <img src="https://badges.pufler.dev/years/amirovm">
+    <img src="https://badges.pufler.dev/repos/amirovm">
+    <img src="https://badges.pufler.dev/gists/amirovm">
+    <img src="https://badges.pufler.dev/created/amirovm">
+p>
+
+  
 
