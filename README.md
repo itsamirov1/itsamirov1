@@ -4,6 +4,6 @@
     <img src="https://badges.pufler.dev/repos/amirovm">
     <img src="https://badges.pufler.dev/gists/amirovm">
     <img src="https://badges.pufler.dev/created/amirovm/itsamirov1">
-
+</p>
   
 
