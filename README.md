@@ -13,7 +13,7 @@
 </p>
 
 <p align="center"> 
-<p My interests: </p> 
+<p> My interests: </p> 
 </p>
   
 
